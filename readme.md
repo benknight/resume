@@ -16,7 +16,7 @@ Professional Experience
 -----------------------
 
 **Front-End Engineer at Yelp**  
-*San Francisco, CA (2012– _current_)*  
+*San Francisco, CA (June 2012– _current_)*  
 Building new features on the two consumer-facing web products: http://www.yelp.com and http://m.yelp.com.  Co-leading multiple  modernization and standardization projects for all front end code on the desktop website.
 
 **Front-End Engineer at CouchSurfing**  
