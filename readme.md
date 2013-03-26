@@ -21,11 +21,11 @@ Building new features on the two consumer-facing web products: http://www.yelp.c
 
 **Front-End Engineer at CouchSurfing**  
 *San Francisco, CA (2011–2012)*  
-Working in parallel with software development teams to provide the design for new product features, and leading the overall modernization of the application's front-end code.</dd>
+Proving the code and design for new product features, modernization of the front end, and A/B testing of significant user experience flows.
 
 **Web Developer at Perch Design Studio**  
 *Portland, ME (2010–2011)*  
-Taking beautiful designs and turning them into experiences that are fast, responsive, and fun.
+Taking beautiful designs and turning them into experiences that are fast, responsive, and fun, usually on WordPress.
 
 **Web Developer at Portland Webworks**  
 *Portland, ME (2009)*  
