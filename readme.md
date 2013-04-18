@@ -5,7 +5,6 @@
 * San Francisco, California
 * ben@benknight.me
 * [@benjamin_knight](http://twitter.com/benjamin_knight)
-* (207) 619-4587
 
 Objective
 ----------
