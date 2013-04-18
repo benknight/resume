@@ -9,7 +9,7 @@
 Objective
 ----------
 
-To gain a full-time position with a company that is passionately product-focused and better enables people to explore and connect with the real world.
+To gain a full-time position with a company that is passionately product-focused and better enables people to explore and connect with the real world.  To work with designers & developers who challenge me to push the web platform to its limits.
 
 Professional Experience
 -----------------------
