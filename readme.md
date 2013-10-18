@@ -43,7 +43,6 @@ Education
   Honors: Magna Cum Laude, Phi Beta Kappa, Dean's List (8 semesters)
 * **Universidad de Salamanca, Salamanca, Spain (2008)**  
   Increased Spanish proficiency through Colby's direct affiliation with the University of Salamanca.  
-* **Westbrook High School, Westbrook, Maine (Diploma 2005)**
 
 Activities & Passions
 ---------------------
