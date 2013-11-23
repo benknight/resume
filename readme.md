@@ -1,4 +1,4 @@
-♘ Benjamin P. Knight
+♘ Benjamin Knight
 ====================
 
 * Web Designer & Developer
@@ -10,7 +10,7 @@ Objective
 
 To work with people who are passionately design-focused.  To build software that enables people to explore and connect with the real world.  To work with other designers & developers who challenge me to push web platform technologies to their limits.
 
-Professional Experience
+Experience
 -----------------------
 
 **Front-End Engineer at Yelp**
@@ -46,4 +46,4 @@ Education
 Activities & Passions
 ---------------------
 
-Sea kayaking, hiking, cooking, languages, traveling, fine beer & wine, progressive metal & rock, film, Spanish language & culture, supporting local businesses.
+Outdoors, cooking, languages, traveling, progressive metal & rock, film, Spanish language & culture, supporting local businesses.
