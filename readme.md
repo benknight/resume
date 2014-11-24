@@ -1,2 +1,2 @@
 My resume is now published here:
-http://benknight.github.io/resume.html
+https://benknight.github.io/resume.html
